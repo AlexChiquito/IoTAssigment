@@ -1,0 +1,9 @@
+/home/alexchiquito/Documents/ltu/Courses/IoT/Systems/Database_Provider/client-skeleton-java-spring-DbQuery/databasemodule/src/main/java/database/Run.java
+/home/alexchiquito/Documents/ltu/Courses/IoT/Systems/Database_Provider/client-skeleton-java-spring-DbQuery/databasemodule/src/main/java/database/IDatabase.java
+/home/alexchiquito/Documents/ltu/Courses/IoT/Systems/Database_Provider/client-skeleton-java-spring-DbQuery/databasemodule/src/main/java/database/DatabaseAuthorisation.java
+/home/alexchiquito/Documents/ltu/Courses/IoT/Systems/Database_Provider/client-skeleton-java-spring-DbQuery/databasemodule/src/main/java/database/tools/PropertiesReader.java
+/home/alexchiquito/Documents/ltu/Courses/IoT/Systems/Database_Provider/client-skeleton-java-spring-DbQuery/databasemodule/src/main/java/database/DataGenerator.java
+/home/alexchiquito/Documents/ltu/Courses/IoT/Systems/Database_Provider/client-skeleton-java-spring-DbQuery/databasemodule/src/main/java/database/mongoImplementation/MongoDB.java
+/home/alexchiquito/Documents/ltu/Courses/IoT/Systems/Database_Provider/client-skeleton-java-spring-DbQuery/databasemodule/src/main/java/database/tools/JsonTools.java
+/home/alexchiquito/Documents/ltu/Courses/IoT/Systems/Database_Provider/client-skeleton-java-spring-DbQuery/databasemodule/src/main/java/database/influxImplementation/InfluxDatabase.java
+/home/alexchiquito/Documents/ltu/Courses/IoT/Systems/Database_Provider/client-skeleton-java-spring-DbQuery/databasemodule/src/main/java/database/DatabaseSelector.java
